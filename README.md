@@ -1,6 +1,6 @@
-# Welcome my Git
+# Welcome to my profil
 
-Hello
+Hello there. I'm full stack developer, focus on JavaScript, Go lang.
 
 # Things I use on a daily basis
 
