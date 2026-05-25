@@ -106,6 +106,7 @@ Hello there. I'm full stack developer, focus on JavaScript, Go lang.
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/9906b7ff-ca48-46d5-b83e-b5595ce15993" title="LFS162: Introduction to DevOps and Site Reliability Engineering"><img src="https://images.credly.com/size/100x100/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/34dd160b-8613-4150-84a6-ae1cd7d21e9f" title="LFS169: Introduction to GitOps"><img src="https://images.credly.com/size/100x100/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/5957b32e-03ed-43b9-aebf-f5494d0074c0" title="LFS148: Getting Started with OpenTelemetry"><img src="https://images.credly.com/size/100x100/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/069b2bc9-c5ca-423b-878c-2b92e7b42a02" title="Kubestronaut"><img src="https://images.credly.com/size/100x100/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="100" height="100"></a>
