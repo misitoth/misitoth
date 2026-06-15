@@ -94,6 +94,7 @@ Hello there. I'm full stack developer, focus on JavaScript, Go lang.
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/28b26242-9c92-44b9-b02d-5b1a3f574b56" title="CGOA: Certified GitOps Associate"><img src="https://images.credly.com/size/100x100/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/819ccfac-68e1-4de7-a19b-aa52d34113f8" title="OTCA: OpenTelemetry Certified Associate"><img src="https://images.credly.com/size/100x100/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/21b63fdc-01db-4d15-b044-70e3fcfc84ec" title="CKS: Certified Kubernetes Security Specialist"><img src="https://images.credly.com/size/100x100/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/e21b871f-5223-41b3-98fd-27741c6fe4b6" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/100x100/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="100" height="100"></a>
@@ -106,6 +107,7 @@ Hello there. I'm full stack developer, focus on JavaScript, Go lang.
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/5cb34480-8769-444f-8b99-2ed51221bb25" title="LFS114: Introduction to free5GC"><img src="https://images.credly.com/size/100x100/images/2ca425b3-ac7d-48df-8f0f-492721fcceeb/blob" alt="LFS114: Introduction to free5GC" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/b60bee10-d130-44e4-9520-801f5869e3fd" title="LFS184: Introduction to JavaScript Security"><img src="https://images.credly.com/size/100x100/images/0302dc68-7df0-4b46-8df8-9065a20f96c6/blob" alt="LFS184: Introduction to JavaScript Security" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/9906b7ff-ca48-46d5-b83e-b5595ce15993" title="LFS162: Introduction to DevOps and Site Reliability Engineering"><img src="https://images.credly.com/size/100x100/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/34dd160b-8613-4150-84a6-ae1cd7d21e9f" title="LFS169: Introduction to GitOps"><img src="https://images.credly.com/size/100x100/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" alt="LFS169: Introduction to GitOps" width="100" height="100"></a>
