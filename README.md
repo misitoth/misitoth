@@ -94,6 +94,7 @@ Hello there. I'm full stack developer, focus on JavaScript, Go lang.
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/749a8f0d-b3de-436f-9ea5-ec5ecb03d528" title="CNPA: Certified Cloud Native Platform Engineering Associate"><img src="https://images.credly.com/size/100x100/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/28b26242-9c92-44b9-b02d-5b1a3f574b56" title="CGOA: Certified GitOps Associate"><img src="https://images.credly.com/size/100x100/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/819ccfac-68e1-4de7-a19b-aa52d34113f8" title="OTCA: OpenTelemetry Certified Associate"><img src="https://images.credly.com/size/100x100/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/21b63fdc-01db-4d15-b044-70e3fcfc84ec" title="CKS: Certified Kubernetes Security Specialist"><img src="https://images.credly.com/size/100x100/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="100" height="100"></a>
