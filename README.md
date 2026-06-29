@@ -108,6 +108,8 @@ Hello there. I'm full stack developer, focus on JavaScript, Go lang.
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/ceb3aaa6-9ff2-4ca5-a0c6-a48ffe0812b1" title="LFD140: GitHub for Open Standards Development"><img src="https://images.credly.com/size/100x100/images/78adcec7-5fbb-4352-aaa5-91c8cb15ec21/blob" alt="LFD140: GitHub for Open Standards Development" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/0dc5361d-3a19-4bdc-b5bf-bb75dbfa292e" title="LFS142: Introduction to Backstage - Developer Portals Made Easy"><img src="https://images.credly.com/size/100x100/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" alt="LFS142: Introduction to Backstage - Developer Portals Made Easy" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/5cb34480-8769-444f-8b99-2ed51221bb25" title="LFS114: Introduction to free5GC"><img src="https://images.credly.com/size/100x100/images/2ca425b3-ac7d-48df-8f0f-492721fcceeb/blob" alt="LFS114: Introduction to free5GC" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/b60bee10-d130-44e4-9520-801f5869e3fd" title="LFS184: Introduction to JavaScript Security"><img src="https://images.credly.com/size/100x100/images/0302dc68-7df0-4b46-8df8-9065a20f96c6/blob" alt="LFS184: Introduction to JavaScript Security" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/9906b7ff-ca48-46d5-b83e-b5595ce15993" title="LFS162: Introduction to DevOps and Site Reliability Engineering"><img src="https://images.credly.com/size/100x100/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="100" height="100"></a>
