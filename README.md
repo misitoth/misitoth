@@ -94,6 +94,7 @@ Hello there. I'm full stack developer, focus on JavaScript, Go lang.
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/f46700a9-d566-4a76-87c9-8f0046a209f1" title="CCA: Cilium Certified Associate"><img src="https://images.credly.com/size/100x100/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="CCA: Cilium Certified Associate" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/c22e0194-a956-4e4c-8b2e-a626c61775b2" title="KCA: Kyverno Certified Associate"><img src="https://images.credly.com/size/100x100/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA: Kyverno Certified Associate" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/d2092142-dd36-4793-92ab-7e97bd6958c9" title="CBA: Certified Backstage Associate"><img src="https://images.credly.com/size/100x100/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA: Certified Backstage Associate" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/749a8f0d-b3de-436f-9ea5-ec5ecb03d528" title="CNPA: Certified Cloud Native Platform Engineering Associate"><img src="https://images.credly.com/size/100x100/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="100" height="100"></a>
