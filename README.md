@@ -112,6 +112,8 @@ Hello there. I'm full stack developer, focus on JavaScript, Go lang.
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/8c9ab9c2-f0be-41ec-9b3f-3886affdeac2" title="LFS245: Istio Service Mesh Essentials"><img src="https://images.credly.com/size/100x100/images/e3e2f3ae-5758-4d19-9373-6bcfdfd3cb0a/blob" alt="LFS245: Istio Service Mesh Essentials" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/25e10794-9cd6-4e11-b0fc-f25090feb4bd" title="LFS144: Introduction to Istio"><img src="https://images.credly.com/size/100x100/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob" alt="LFS144: Introduction to Istio" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/35ba4f2b-d4a0-4b1a-99b5-0f4c1d40a3a0" title="Kong Insomnia for Developers"><img src="https://images.credly.com/size/100x100/images/74cceaff-5e0f-4fa1-9bb2-4492edc2e2a7/blob" alt="Kong Insomnia for Developers" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/650cd1ed-139f-4b6f-940d-c94e009241de" title="LFS256: DevOps and Workflow Management with Argo"><img src="https://images.credly.com/size/100x100/images/dec28796-b4df-40e3-87f7-bdbcf02c3d2c/blob" alt="LFS256: DevOps and Workflow Management with Argo" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/570d18bc-bee2-4480-b283-dc22170fb0e0" title="LFS146: Introduction to Cilium"><img src="https://images.credly.com/size/100x100/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" alt="LFS146: Introduction to Cilium" width="100" height="100"></a>
