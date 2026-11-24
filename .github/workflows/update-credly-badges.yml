@@ -18,8 +18,8 @@ jobs:
         uses: Sagargupta16/credly-badge-readme-action@v1
         with:
           credly-username: "mihaly-andras-toth"
-          badge_size: '100x100'
-          badge_sort_by: 'issued'
+          badge-size: '100x100'
+          sort: 'newest'
 
       - name: Commit changes
         run: |
